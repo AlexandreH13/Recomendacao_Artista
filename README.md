@@ -1,5 +1,3 @@
-# Recomendacao_Artista
-
 
 ## getSimilares(baseDeDados, 'idUsuario') -> Busca por usuários similares
 
@@ -8,4 +6,5 @@
 <p>Exemplo:
 	
 	base = carregaBaseDados()
-	getRecomenda(base, '13')</p>
+	getRecomenda(base, '13')
+</p>
