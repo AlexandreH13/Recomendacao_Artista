@@ -5,7 +5,7 @@
 
 ## getRecomenda(baseDeDados, 'idUsuario') -> Faz a recomendação de artistas para o usuário
 
-## Exemplo:
+<p>Exemplo:
 	
-	### base = carregaBaseDados()
-	### getRecomenda(base, '13')
+	base = carregaBaseDados()
+	getRecomenda(base, '13')</p>
